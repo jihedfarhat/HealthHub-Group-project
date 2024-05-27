@@ -1,6 +1,5 @@
 # HealthHub - Your Fitness Companion
 
-![HealthHub Logo][logo]
 
 HealthHub is a comprehensive fitness tracking application that helps users monitor their physical activities, track their progress, and understand the impact of their workouts on their calorie expenditure. This project was developed as the final submission for the Coding Dojo Africa web development bootcamp, utilizing the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
