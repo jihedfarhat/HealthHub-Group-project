@@ -15,7 +15,7 @@ HealthHub is a comprehensive fitness tracking application that helps users monit
 
 ## Technologies Used
 
-- **Front-End**: React.js, HTML, CSS, JavaScript
+- **Front-End**: React.js, HTML, CSS, JavaScript, Tailwind css, Material UI, Joy UI
 - **Back-End**: Node.js, Express.js
 - **Database**: MongoDB
 - **Other Tools**: Git, GitHub, Mongoose
@@ -53,4 +53,3 @@ If you'd like to contribute to the HealthHub project, please feel free to submit
 
 This project is licensed under the [MIT License](LICENSE).
 
-[logo]: https://github.com/HoussemOuaja/HealthHub-Group-project/blob/main/public/HealthHub_logo.png
