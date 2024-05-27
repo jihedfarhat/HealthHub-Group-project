@@ -29,7 +29,7 @@ HealthHub is a comprehensive fitness tracking application that helps users monit
 
 To run the HealthHub application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/HoussemOuaja/HealthHub-Group-project.git`
+1. Clone the repository: `git clone https://github.com/jihedfarhat/HealthHub-Group-project.git`
 2. Install the dependencies:
    - Front-End: `cd client && npm install`
    - Back-End: `cd server && npm install`
